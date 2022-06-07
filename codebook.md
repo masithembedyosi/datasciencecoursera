@@ -1,6 +1,6 @@
 title: "Getting-and-Cleaning-Data-Week-4-Assignment" 
 
-author: "Michael Schroff" 
+author: "Masithembe Dyosi" 
 
 date: "25.01.2018" 
 
